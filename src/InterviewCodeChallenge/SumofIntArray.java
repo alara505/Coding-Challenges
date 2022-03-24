@@ -13,6 +13,7 @@ public class SumofIntArray {
         System.out.println(test1());
         System.out.println(test2());
     }
+
     public static int test1(){
         int [] arr = {1,2,3,4,5};
         int temp = 0;
